@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/ClientTest.dir/clientTest.cpp.o CMakeFiles/ClientTest.dir/BaseSocket.cpp.o CMakeFiles/ClientTest.dir/Addr.cpp.o  -o ClientTest 

@@ -1,0 +1,4 @@
+/root/networkProject/lesson2/CMakeFiles/edit_cache.dir
+/root/networkProject/lesson2/CMakeFiles/rebuild_cache.dir
+/root/networkProject/lesson2/CMakeFiles/mainServer.dir
+/root/networkProject/lesson2/CMakeFiles/mainClient.dir

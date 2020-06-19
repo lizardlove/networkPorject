@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/mainClient.dir/mainClient.cpp.o CMakeFiles/mainClient.dir/BaseSocket.cpp.o CMakeFiles/mainClient.dir/Addr.cpp.o  -o mainClient 
